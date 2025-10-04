@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vladislav (GromavVL)
+# 👋 Hi, I'm Vladislav
 
 **Frontend Developer** about building modern, performant UIs and seamless user experiences.
 
