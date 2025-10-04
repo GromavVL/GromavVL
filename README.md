@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladislav (GromavVL)
 
-**Frontend Developer** passionate about building modern, performant UIs and seamless user experiences.
+**Frontend Developer** about building modern, performant UIs and seamless user experiences.
 
 ---
 
