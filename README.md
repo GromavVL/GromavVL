@@ -1,12 +1,12 @@
 <!--
-  GitHub README · Владислав Ильин (@GromavVL)
+  GitHub README · Vladislav Ilin (@GromavVL)
 -->
 
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Владислав Ильин — Fullstack Developer" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Vladislav Ilin — Fullstack Developer" width="100%" />
 </p>
 
-<h1 align="center">Привет! I'm Владислав Ильин 👋</h1>
+<h1 align="center">Hi there! I'm Vladislav Ilin 👋</h1>
 
 <p align="center">
   <b>Fullstack Developer</b> · learning, building, and shipping modern web apps.
@@ -97,7 +97,7 @@
 
 <p>
   <a href="https://t.me/Gromav"><b>Telegram →</b> @Gromav</a><br/>
-  <a href="https://www.linkedin.com/in/владислав-ильин-39b498381"><b>LinkedIn →</b> Владислав Ильин</a>
+  <a href="https://www.linkedin.com/in/владислав-ильин-39b498381"><b>LinkedIn →</b> Vladislav Ilin</a>
 </p>
 
 ---
@@ -109,4 +109,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GromavVL&style=flat-square&color=22D3EE&label=Profile+views" alt="Profile views"/>
 </p>
-# README.md
