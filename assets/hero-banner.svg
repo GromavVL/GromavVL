@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Владислав Ильин — Fullstack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"></stop>
+      <stop offset="55%" stop-color="#0E1A33"></stop>
+      <stop offset="100%" stop-color="#0B1220"></stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"></stop>
+      <stop offset="50%" stop-color="#3B82F6"></stop>
+      <stop offset="100%" stop-color="#06B6D4"></stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(124,58,237,0.08)" stroke-width="1"></path>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"></rect>
+  <rect width="1200" height="320" fill="url(#grid)"></rect>
+
+  <circle cx="980" cy="80" r="180" fill="#3B82F6" opacity="0.12"></circle>
+  <circle cx="1080" cy="240" r="140" fill="#7C3AED" opacity="0.14"></circle>
+  <circle cx="120" cy="260" r="120" fill="#06B6D4" opacity="0.10"></circle>
+
+  <rect x="56" y="60" width="4" height="200" rx="2" fill="url(#accent)"></rect>
+
+  <text x="80" y="98" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" font-size="16" opacity="0.9">
+    <tspan fill="#94A3B8">~/</tspan><tspan fill="#A78BFA">gromavvl</tspan><tspan fill="#94A3B8"> $ </tspan><tspan fill="#22D3EE">whoami</tspan>
+  </text>
+
+  <text x="80" y="172" font-family="&#39;Inter&#39;, &#39;Manrope&#39;, system-ui, sans-serif" font-size="60" font-weight="800" fill="#F8FAFC" letter-spacing="-2">Владислав Ильин</text>
+
+  <text x="80" y="212" font-family="&#39;Inter&#39;, &#39;Manrope&#39;, system-ui, sans-serif" font-size="26" font-weight="700" fill="url(#accent)" letter-spacing="-0.5">Fullstack Developer</text>
+
+  <text x="80" y="246" font-family="&#39;Inter&#39;, &#39;Manrope&#39;, system-ui, sans-serif" font-size="15" font-weight="500" fill="#94A3B8">Learning &amp; building · React · Node.js · Express · PostgreSQL · MongoDB</text>
+
+  <g transform="translate(80, 268)">
+    <rect x="0" y="0" width="180" height="28" rx="14" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.4)" stroke-width="1"></rect>
+    <circle cx="16" cy="14" r="4" fill="#22D3EE">
+      
+    </circle>
+    <text x="28" y="18" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" font-size="12" fill="#E2E8F0">open to networking</text>
+  </g>
+
+  <g transform="translate(720, 60)">
+    <rect x="0" y="0" width="420" height="200" rx="14" fill="#0F172A" stroke="rgba(148,163,184,0.15)" stroke-width="1"></rect>
+    <circle cx="20" cy="20" r="5" fill="#EF4444"></circle>
+    <circle cx="38" cy="20" r="5" fill="#F59E0B"></circle>
+    <circle cx="56" cy="20" r="5" fill="#22C55E"></circle>
+    <text x="380" y="24" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="11" fill="#64748B" text-anchor="end">dev.js</text>
+    <line x1="0" y1="40" x2="420" y2="40" stroke="rgba(148,163,184,0.1)"></line>
+
+    <text x="20" y="68" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13">
+      <tspan fill="#A78BFA">const</tspan><tspan fill="#E2E8F0"> dev </tspan><tspan fill="#64748B">=</tspan><tspan fill="#E2E8F0"> {</tspan>
+    </text>
+    <text x="36" y="92" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13">
+      <tspan fill="#22D3EE">name</tspan><tspan fill="#64748B">:</tspan><tspan fill="#FACC15"> &#39;Владислав&#39;</tspan><tspan fill="#64748B">,</tspan>
+    </text>
+    <text x="36" y="116" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13">
+      <tspan fill="#22D3EE">role</tspan><tspan fill="#64748B">:</tspan><tspan fill="#FACC15"> &#39;Fullstack&#39;</tspan><tspan fill="#64748B">,</tspan>
+    </text>
+    <text x="36" y="140" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13">
+      <tspan fill="#22D3EE">stack</tspan><tspan fill="#64748B">:</tspan><tspan fill="#E2E8F0"> [</tspan><tspan fill="#FB923C">&#39;React&#39;</tspan><tspan fill="#64748B">,</tspan><tspan fill="#FB923C"> &#39;Node&#39;</tspan><tspan fill="#E2E8F0">],</tspan>
+    </text>
+    <text x="36" y="164" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13">
+      <tspan fill="#22D3EE">learning</tspan><tspan fill="#64748B">:</tspan><tspan fill="#34D399"> true</tspan>
+    </text>
+    <text x="20" y="188" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="13" fill="#E2E8F0">};</text>
+  </g>
+
+  <rect x="0" y="316" width="1200" height="4" fill="url(#accent)"></rect>
+</svg>
